@@ -3,3 +3,6 @@ segundo comando
 comando terceiro
 sera que da certo?
 asdf
+terceira linha(char)
+quarto comando
+sera que da certo?
