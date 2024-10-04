@@ -1,3 +1,5 @@
 Primeiro comando
 segundo comando
 comando terceiro
+terceira linha(char)
+
